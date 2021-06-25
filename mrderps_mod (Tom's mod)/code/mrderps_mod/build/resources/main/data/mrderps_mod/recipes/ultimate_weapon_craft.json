@@ -1,0 +1,42 @@
+{
+  "group": "mrderps_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mrderps_mod:adraniumblock"
+    },
+    "1": {
+      "item": "mrderps_mod:adrenium_sword"
+    },
+    "2": {
+      "item": "mrderps_mod:adraniumblock"
+    },
+    "3": {
+      "item": "mrderps_mod:adrenium_axe"
+    },
+    "4": {
+      "item": "mrderps_mod:slayer"
+    },
+    "5": {
+      "item": "mrderps_mod:adrenium_axe"
+    },
+    "6": {
+      "item": "mrderps_mod:adraniumblock"
+    },
+    "7": {
+      "item": "mrderps_mod:adrenium_sword"
+    },
+    "8": {
+      "item": "mrderps_mod:adraniumblock"
+    }
+  },
+  "result": {
+    "item": "mrderps_mod:adrenium_sheild",
+    "count": 1
+  }
+}

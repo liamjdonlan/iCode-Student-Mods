@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mrderps_mod:blocks/biome_tree_leafs",
+    "particle": "mrderps_mod:blocks/biome_tree_leafs"
+  }
+}

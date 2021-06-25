@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Biome2Planks"
+      },
+      {
+        "value": "CUSTOM:Biome2Planks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Biome2Planks"
+      },
+      {
+        "value": "CUSTOM:Biome2Planks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.CRAFTING_TABLE"
+    },
+    "name": "biome_2plank_craft",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "mrderps_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "mrderps_mod:adraniumingot"
+    },
+    "1": {
+      "item": "mrderps_mod:adraniumingot"
+    },
+    "2": {
+      "item": "mrderps_mod:adraniumingot"
+    },
+    "4": {
+      "item": "mrderps_mod:aderanium_stick"
+    },
+    "7": {
+      "item": "mrderps_mod:aderanium_stick"
+    }
+  },
+  "result": {
+    "item": "mrderps_mod:adrenium_pickaxe",
+    "count": 1
+  }
+}

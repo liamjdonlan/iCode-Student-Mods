@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mrderps_mod:blocks/biome2_grass_bottom",
+    "particle": "mrderps_mod:blocks/biome2_grass_bottom"
+  }
+}

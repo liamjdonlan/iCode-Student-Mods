@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AdreniumOre"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Adraniumingot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AderaniumStick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AdreniumBow"
+    },
+    "name": "adrenium_wand",
+    "namespace": "mod"
+  }
+}

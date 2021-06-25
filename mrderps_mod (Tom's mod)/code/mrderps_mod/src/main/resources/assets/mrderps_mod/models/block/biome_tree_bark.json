@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mrderps_mod:blocks/biome_log_top",
+    "up": "mrderps_mod:blocks/biome_log_top",
+    "north": "mrderps_mod:blocks/biome_log_sides",
+    "east": "mrderps_mod:blocks/biome_log_sides",
+    "south": "mrderps_mod:blocks/biome_log_sides",
+    "west": "mrderps_mod:blocks/biome_log_sides",
+    "particle": "mrderps_mod:blocks/biome_log_top"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Adraniumblock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Adraniumblock"
+      },
+      {
+        "value": "CUSTOM:Adraniumblock"
+      },
+      {
+        "value": "Items.DYE#1"
+      },
+      {
+        "value": "CUSTOM:Adraniumblock"
+      },
+      {
+        "value": "CUSTOM:Adraniumingot"
+      },
+      {
+        "value": "CUSTOM:AderaniumStick"
+      },
+      {
+        "value": "CUSTOM:Adraniumingot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Slayer"
+    },
+    "name": "slayer_craft",
+    "namespace": "mod"
+  }
+}

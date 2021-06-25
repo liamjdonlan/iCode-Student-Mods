@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mrderps_mod:blocks/blue_flower",
+    "particle": "mrderps_mod:blocks/adranium_particles"
+  }
+}

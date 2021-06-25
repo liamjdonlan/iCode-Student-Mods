@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mrderps_mod:blocks/adrenium_planks",
+    "particle": "mrderps_mod:blocks/adrenium_planks"
+  }
+}
