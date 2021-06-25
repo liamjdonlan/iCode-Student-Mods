@@ -1,0 +1,16 @@
+{
+  "group": "im_dum",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "im_dum:ardeniumblock"
+    }
+  },
+  "result": {
+    "item": "im_dum:ardeniumingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "group": "im_dum",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "im_dum:ardeniumingot"
+    },
+    "1": {
+      "item": "im_dum:ardeniumingot"
+    },
+    "2": {
+      "item": "im_dum:ardeniumingot"
+    },
+    "3": {
+      "item": "im_dum:ardeniumingot"
+    },
+    "5": {
+      "item": "im_dum:ardeniumingot"
+    }
+  },
+  "result": {
+    "item": "im_dum:ardenium_armor_helmet",
+    "count": 1
+  }
+}

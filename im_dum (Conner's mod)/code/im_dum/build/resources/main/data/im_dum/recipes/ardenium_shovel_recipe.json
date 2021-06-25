@@ -1,0 +1,24 @@
+{
+  "group": "im_dum",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "im_dum:ardeniumingot"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "im_dum:ardeniumshovel",
+    "count": 1
+  }
+}

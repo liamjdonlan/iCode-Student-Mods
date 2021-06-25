@@ -1,0 +1,39 @@
+{
+  "group": "im_dum",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "im_dum:ardeniumingot"
+    },
+    "2": {
+      "item": "im_dum:ardeniumingot"
+    },
+    "3": {
+      "item": "im_dum:ardeniumingot"
+    },
+    "4": {
+      "item": "im_dum:ardeniumingot"
+    },
+    "5": {
+      "item": "im_dum:ardeniumingot"
+    },
+    "6": {
+      "item": "im_dum:ardeniumingot"
+    },
+    "7": {
+      "item": "im_dum:ardeniumingot"
+    },
+    "8": {
+      "item": "im_dum:ardeniumingot"
+    }
+  },
+  "result": {
+    "item": "im_dum:ardenium_armor_chestplate",
+    "count": 1
+  }
+}

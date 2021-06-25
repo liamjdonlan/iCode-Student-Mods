@@ -1,0 +1,42 @@
+{
+  "group": "im_dum",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "im_dum:void_ingot"
+    },
+    "1": {
+      "item": "im_dum:void_ingot"
+    },
+    "2": {
+      "item": "im_dum:void_ingot"
+    },
+    "3": {
+      "item": "im_dum:void_ingot"
+    },
+    "4": {
+      "item": "im_dum:void_ingot"
+    },
+    "5": {
+      "item": "im_dum:void_ingot"
+    },
+    "6": {
+      "item": "im_dum:void_ingot"
+    },
+    "7": {
+      "item": "im_dum:void_ingot"
+    },
+    "8": {
+      "item": "im_dum:void_ingot"
+    }
+  },
+  "result": {
+    "item": "im_dum:efd",
+    "count": 1
+  }
+}

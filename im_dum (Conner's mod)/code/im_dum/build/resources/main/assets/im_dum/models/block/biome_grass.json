@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "im_dum:blocks/biome_grass_bottem",
+    "up": "im_dum:blocks/biome_grass_top",
+    "north": "im_dum:blocks/biome_grass",
+    "east": "im_dum:blocks/biome_grass",
+    "south": "im_dum:blocks/biome_grass",
+    "west": "im_dum:blocks/biome_grass",
+    "particle": "im_dum:blocks/biome_grass_bottem"
+  }
+}

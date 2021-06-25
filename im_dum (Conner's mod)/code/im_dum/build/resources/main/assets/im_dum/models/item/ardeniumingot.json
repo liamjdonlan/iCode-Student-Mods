@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "im_dum:items/ardanium_ingot_texture"
+  }
+}

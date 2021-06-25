@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "im_dum:blocks/biome_leavestree",
+    "particle": "im_dum:blocks/biome_leavestree"
+  }
+}
