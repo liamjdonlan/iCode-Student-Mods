@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "tree:blocks/speedblock",
+    "particle": "tree:blocks/speedblock"
+  }
+}

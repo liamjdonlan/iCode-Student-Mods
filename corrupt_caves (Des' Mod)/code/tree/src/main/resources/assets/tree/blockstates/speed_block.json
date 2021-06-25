@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tree:block/speed_block"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "group": "tree",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:honeycomb"
+    },
+    "1": {
+      "item": "minecraft:honeycomb"
+    },
+    "2": {
+      "item": "minecraft:honeycomb"
+    },
+    "3": {
+      "item": "minecraft:honeycomb"
+    },
+    "5": {
+      "item": "minecraft:honeycomb"
+    }
+  },
+  "result": {
+    "item": "tree:honey_armor_helmet",
+    "count": 1
+  }
+}

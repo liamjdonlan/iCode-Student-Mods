@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tree:items/honey_armor_leggings"
+  }
+}
