@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "im_dum:blocks/biome_grass_bottem",
-    "particle": "im_dum:blocks/biome_grass_bottem"
-  }
-}

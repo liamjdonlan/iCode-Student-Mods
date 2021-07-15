@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "a_combination_of_weird_things:blocks/weird_block_texture",
-    "particle": "a_combination_of_weird_things:blocks/weird_block_texture"
-  }
-}

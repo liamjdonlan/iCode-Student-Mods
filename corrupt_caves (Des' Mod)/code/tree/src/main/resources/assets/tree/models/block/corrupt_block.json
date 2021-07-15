@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "tree:blocks/corrupt_block_texture",
-    "particle": "tree:blocks/corrupt_block_texture"
-  }
-}

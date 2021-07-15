@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "im_dum:blocks/ardenium_ore_texture",
-    "particle": "im_dum:blocks/ardenium_ore_texture"
-  }
-}
