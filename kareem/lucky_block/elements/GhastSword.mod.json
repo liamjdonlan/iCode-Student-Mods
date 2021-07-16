@@ -1,0 +1,30 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ghastaxe",
+    "customModelName": "Normal",
+    "name": "Ghast axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 13,
+    "efficiency": 13.0,
+    "attackSpeed": 0.0,
+    "enchantability": 119,
+    "damageVsEntity": 128000.0,
+    "usageCount": 128000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "GhastSwordLivingEntityIsHitWithTool"
+    }
+  }
+}

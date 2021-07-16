@@ -1,0 +1,28 @@
+{
+  "group": "lucky_block",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lucky_block:ghast_ingot"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "lucky_block:ghast_ingot"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "lucky_block:ghast_ingot"
+    }
+  ],
+  "result": {
+    "item": "lucky_block:ghastcrossbow",
+    "count": 1
+  }
+}

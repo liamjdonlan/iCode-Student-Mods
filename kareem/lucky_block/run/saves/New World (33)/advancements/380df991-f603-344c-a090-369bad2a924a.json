@@ -1,0 +1,34 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2021-07-15 09:52:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:ghast": "2021-07-15 09:52:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:ghast": "2021-07-15 09:52:07 -0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-07-15 09:52:06 -0400",
+      "minecraft:wooded_hills": "2021-07-15 09:51:26 -0400"
+    },
+    "done": false
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2021-07-15 09:52:07 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

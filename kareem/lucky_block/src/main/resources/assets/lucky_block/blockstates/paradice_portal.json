@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "lucky_block:block/paradice_portal_ew"
+    },
+    "axis=x": {
+      "model": "lucky_block:block/paradice_portal_ns"
+    }
+  }
+}

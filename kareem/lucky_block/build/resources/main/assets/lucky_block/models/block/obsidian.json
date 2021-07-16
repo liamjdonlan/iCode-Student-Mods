@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lucky_block:blocks/obsisian_pre",
+    "particle": "lucky_block:blocks/obsisian_pre"
+  }
+}

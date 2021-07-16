@@ -1,0 +1,30 @@
+{
+  "group": "lucky_block",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "lucky_block:ghast_ingot"
+    },
+    "1": {
+      "item": "lucky_block:ghast_ingot"
+    },
+    "2": {
+      "item": "lucky_block:ghast_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "lucky_block:ghast_sword",
+    "count": 1
+  }
+}

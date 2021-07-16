@@ -1,0 +1,12 @@
+{
+  "group": "lucky_block",
+  "type": "minecraft:smelting",
+  "experience": 0,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "lucky_block:obsidian"
+  },
+  "result": {
+    "item": "minecraft:obsidian"
+  }
+}

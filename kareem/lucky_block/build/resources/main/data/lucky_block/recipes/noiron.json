@@ -1,0 +1,20 @@
+{
+  "group": "lucky_block",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    " 3"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:coal"
+    },
+    "3": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "lucky_block:luckyblok",
+    "count": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "group": "lucky_block",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lucky_block:ghast_ingot"
+    },
+    {
+      "item": "lucky_block:ghast_ingot"
+    },
+    {
+      "item": "lucky_block:ghast_ingot"
+    },
+    {
+      "item": "lucky_block:ghast_ingot"
+    },
+    {
+      "item": "lucky_block:ghast_ingot"
+    },
+    {
+      "item": "lucky_block:ghast_ingot"
+    },
+    {
+      "item": "lucky_block:ghast_ingot"
+    },
+    {
+      "item": "lucky_block:ghast_ingot"
+    },
+    {
+      "item": "lucky_block:ghast_ingot"
+    }
+  ],
+  "result": {
+    "item": "lucky_block:ghast_iblock",
+    "count": 1
+  }
+}
