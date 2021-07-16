@@ -1,0 +1,25 @@
+{
+  "group": "the_goated_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_goated_mod:platnum_ingot"
+    },
+    {
+      "item": "the_goated_mod:platnum_ingot"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "the_goated_mod:platnum_ingot"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "the_goated_mod:platnum_pickaxe",
+    "count": 1
+  }
+}

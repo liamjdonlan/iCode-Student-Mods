@@ -1,0 +1,116 @@
+net/mcreator/thegoatedmod/item/PlatnumIngotItem.java
+ net.mcreator.thegoatedmod.item.PlatnumIngotItem
+ net.mcreator.thegoatedmod.item.PlatnumIngotItem$ItemCustom
+net/mcreator/thegoatedmod/TheGoatedModModElements.java
+ net.mcreator.thegoatedmod.TheGoatedModModElements
+ net.mcreator.thegoatedmod.TheGoatedModModElements$ModElement
+ net.mcreator.thegoatedmod.TheGoatedModModElements$ModElement$Tag
+net/mcreator/thegoatedmod/TheGoatedModMod.java
+ net.mcreator.thegoatedmod.TheGoatedModMod
+ net.mcreator.thegoatedmod.TheGoatedModMod$TheGoatedModModFMLBusEvents
+net/mcreator/thegoatedmod/block/PlatnumBlockBlock.java
+ net.mcreator.thegoatedmod.block.PlatnumBlockBlock
+ net.mcreator.thegoatedmod.block.PlatnumBlockBlock$CustomBlock
+net/mcreator/thegoatedmod/block/PlatnumBlock.java
+ net.mcreator.thegoatedmod.block.PlatnumBlock
+ net.mcreator.thegoatedmod.block.PlatnumBlock$1
+ net.mcreator.thegoatedmod.block.PlatnumBlock$CustomBlock
+ net.mcreator.thegoatedmod.block.PlatnumBlock$CustomRuleTest
+ net.mcreator.thegoatedmod.block.PlatnumBlock$FeatureRegisterHandler
+ net.mcreator.thegoatedmod.block.PlatnumBlock$FeatureRegisterHandler$1
+net/mcreator/thegoatedmod/item/PlatnumArmorItem.java
+ net.mcreator.thegoatedmod.item.PlatnumArmorItem
+ net.mcreator.thegoatedmod.item.PlatnumArmorItem$1
+ net.mcreator.thegoatedmod.item.PlatnumArmorItem$2
+ net.mcreator.thegoatedmod.item.PlatnumArmorItem$3
+ net.mcreator.thegoatedmod.item.PlatnumArmorItem$4
+ net.mcreator.thegoatedmod.item.PlatnumArmorItem$5
+net/mcreator/thegoatedmod/item/MroverpoweredItem.java
+ net.mcreator.thegoatedmod.item.MroverpoweredItem
+ net.mcreator.thegoatedmod.item.MroverpoweredItem$1
+ net.mcreator.thegoatedmod.item.MroverpoweredItem$2
+net/mcreator/thegoatedmod/item/PlatnumPickaxeItem.java
+ net.mcreator.thegoatedmod.item.PlatnumPickaxeItem
+ net.mcreator.thegoatedmod.item.PlatnumPickaxeItem$1
+ net.mcreator.thegoatedmod.item.PlatnumPickaxeItem$2
+net/mcreator/thegoatedmod/item/PlatnumAxeItem.java
+ net.mcreator.thegoatedmod.item.PlatnumAxeItem
+ net.mcreator.thegoatedmod.item.PlatnumAxeItem$1
+ net.mcreator.thegoatedmod.item.PlatnumAxeItem$2
+net/mcreator/thegoatedmod/item/PlatnumHoeItem.java
+ net.mcreator.thegoatedmod.item.PlatnumHoeItem
+ net.mcreator.thegoatedmod.item.PlatnumHoeItem$1
+ net.mcreator.thegoatedmod.item.PlatnumHoeItem$2
+net/mcreator/thegoatedmod/item/LindaItem.java
+ net.mcreator.thegoatedmod.item.LindaItem
+ net.mcreator.thegoatedmod.item.LindaItem$1
+ net.mcreator.thegoatedmod.item.LindaItem$2
+net/mcreator/thegoatedmod/item/PlatnumSwordItem.java
+ net.mcreator.thegoatedmod.item.PlatnumSwordItem
+ net.mcreator.thegoatedmod.item.PlatnumSwordItem$1
+ net.mcreator.thegoatedmod.item.PlatnumSwordItem$2
+net/mcreator/thegoatedmod/block/BiomeGrassBlock.java
+ net.mcreator.thegoatedmod.block.BiomeGrassBlock
+ net.mcreator.thegoatedmod.block.BiomeGrassBlock$CustomBlock
+net/mcreator/thegoatedmod/block/SquidunderstudyBlock.java
+ net.mcreator.thegoatedmod.block.SquidunderstudyBlock
+ net.mcreator.thegoatedmod.block.SquidunderstudyBlock$CustomBlock
+net/mcreator/thegoatedmod/block/TreeWoodsquidBlock.java
+ net.mcreator.thegoatedmod.block.TreeWoodsquidBlock
+ net.mcreator.thegoatedmod.block.TreeWoodsquidBlock$CustomBlock
+net/mcreator/thegoatedmod/block/LeavesquidBlock.java
+ net.mcreator.thegoatedmod.block.LeavesquidBlock
+ net.mcreator.thegoatedmod.block.LeavesquidBlock$CustomBlock
+net/mcreator/thegoatedmod/world/biome/SquidboysBiome.java
+ net.mcreator.thegoatedmod.world.biome.SquidboysBiome
+ net.mcreator.thegoatedmod.world.biome.SquidboysBiome$1
+ net.mcreator.thegoatedmod.world.biome.SquidboysBiome$BiomeRegisterHandler
+net/mcreator/thegoatedmod/world/dimension/SquidboysforlifeDimension.java
+ net.mcreator.thegoatedmod.world.dimension.SquidboysforlifeDimension
+ net.mcreator.thegoatedmod.world.dimension.SquidboysforlifeDimension$1
+ net.mcreator.thegoatedmod.world.dimension.SquidboysforlifeDimension$CustomPortalBlock
+ net.mcreator.thegoatedmod.world.dimension.SquidboysforlifeDimension$CustomPortalSize
+ net.mcreator.thegoatedmod.world.dimension.SquidboysforlifeDimension$POIRegisterHandler
+ net.mcreator.thegoatedmod.world.dimension.SquidboysforlifeDimension$TeleporterDimensionMod
+net/mcreator/thegoatedmod/block/SquidFrameBlock.java
+ net.mcreator.thegoatedmod.block.SquidFrameBlock
+ net.mcreator.thegoatedmod.block.SquidFrameBlock$CustomBlock
+net/mcreator/thegoatedmod/item/SquidboysforlifeItem.java
+ net.mcreator.thegoatedmod.item.SquidboysforlifeItem
+net/mcreator/thegoatedmod/world/structure/Bigboy101Structure.java
+ net.mcreator.thegoatedmod.world.structure.Bigboy101Structure
+ net.mcreator.thegoatedmod.world.structure.Bigboy101Structure$1
+ net.mcreator.thegoatedmod.world.structure.Bigboy101Structure$FeatureRegisterHandler
+ net.mcreator.thegoatedmod.world.structure.Bigboy101Structure$FeatureRegisterHandler$1
+net/mcreator/thegoatedmod/procedures/RainsquidOnBlockRightClickedProcedure.java
+ net.mcreator.thegoatedmod.procedures.RainsquidOnBlockRightClickedProcedure
+net/mcreator/thegoatedmod/block/RainsquidBlock.java
+ net.mcreator.thegoatedmod.block.RainsquidBlock
+ net.mcreator.thegoatedmod.block.RainsquidBlock$CustomBlock
+net/mcreator/thegoatedmod/procedures/SquidioFoodEatenProcedure.java
+ net.mcreator.thegoatedmod.procedures.SquidioFoodEatenProcedure
+net/mcreator/thegoatedmod/item/SquidioItem.java
+ net.mcreator.thegoatedmod.item.SquidioItem
+ net.mcreator.thegoatedmod.item.SquidioItem$FoodItemCustom
+net/mcreator/thegoatedmod/block/SquidinkBlock.java
+ net.mcreator.thegoatedmod.block.SquidinkBlock
+ net.mcreator.thegoatedmod.block.SquidinkBlock$1
+ net.mcreator.thegoatedmod.block.SquidinkBlock$FeatureRegisterHandler
+ net.mcreator.thegoatedmod.block.SquidinkBlock$FeatureRegisterHandler$1
+ net.mcreator.thegoatedmod.block.SquidinkBlock$FluidRegisterHandler
+net/mcreator/thegoatedmod/entity/renderer/SquidlauncherRenderer.java
+ net.mcreator.thegoatedmod.entity.renderer.SquidlauncherRenderer
+ net.mcreator.thegoatedmod.entity.renderer.SquidlauncherRenderer$ModelRegisterHandler
+net/mcreator/thegoatedmod/item/SquidlauncherItem.java
+ net.mcreator.thegoatedmod.item.SquidlauncherItem
+ net.mcreator.thegoatedmod.item.SquidlauncherItem$ArrowCustomEntity
+ net.mcreator.thegoatedmod.item.SquidlauncherItem$ItemRanged
+net/mcreator/thegoatedmod/entity/CreepaBoyEntity.java
+ net.mcreator.thegoatedmod.entity.CreepaBoyEntity
+ net.mcreator.thegoatedmod.entity.CreepaBoyEntity$1
+ net.mcreator.thegoatedmod.entity.CreepaBoyEntity$CustomEntity
+ net.mcreator.thegoatedmod.entity.CreepaBoyEntity$EntityAttributesRegisterHandler
+net/mcreator/thegoatedmod/entity/renderer/CreepaBoyRenderer.java
+ net.mcreator.thegoatedmod.entity.renderer.CreepaBoyRenderer
+ net.mcreator.thegoatedmod.entity.renderer.CreepaBoyRenderer$ModelRegisterHandler
+ net.mcreator.thegoatedmod.entity.renderer.CreepaBoyRenderer$ModelRegisterHandler$1

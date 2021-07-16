@@ -1,0 +1,428 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "PlatnumIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_ingot"
+    },
+    {
+      "name": "PlatnumBlock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_block"
+    },
+    {
+      "name": "PlatnumBlockRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_block_recipe"
+    },
+    {
+      "name": "PlatnumIngotRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_ingot_recipe"
+    },
+    {
+      "name": "Platnum",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum"
+    },
+    {
+      "name": "PlatnumArmor",
+      "type": "armor",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Platinumhelmet",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinumhelmet"
+    },
+    {
+      "name": "PlatnumChestplate",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_chestplate"
+    },
+    {
+      "name": "PlatnumPants",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_pants"
+    },
+    {
+      "name": "PlatnumYeezys",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_yeezys"
+    },
+    {
+      "name": "Mroverpowered",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mroverpowered"
+    },
+    {
+      "name": "PlatnumPickaxe",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_pickaxe"
+    },
+    {
+      "name": "PlatnumAxe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_axe"
+    },
+    {
+      "name": "PlatnumHoe",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_hoe"
+    },
+    {
+      "name": "Linda",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "linda"
+    },
+    {
+      "name": "PlatnumSword",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_sword"
+    },
+    {
+      "name": "PickaxeRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pickaxe_recipe"
+    },
+    {
+      "name": "AxeRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "axe_recipe"
+    },
+    {
+      "name": "SwordRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sword_recipe"
+    },
+    {
+      "name": "Lindah",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lindah"
+    },
+    {
+      "name": "Hoerecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hoerecipe"
+    },
+    {
+      "name": "Lkjsahfls",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lkjsahfls"
+    },
+    {
+      "name": "BiomeGrass",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "biome_grass"
+    },
+    {
+      "name": "Squidunderstudy",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "squidunderstudy"
+    },
+    {
+      "name": "TreeWoodsquid",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tree_woodsquid"
+    },
+    {
+      "name": "Leavesquid",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leavesquid"
+    },
+    {
+      "name": "Squidboys",
+      "type": "biome",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "squidboys"
+    },
+    {
+      "name": "DirtBlocks",
+      "type": "tag",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_blocks"
+    },
+    {
+      "name": "Bigboy101",
+      "type": "structure",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bigboy_101"
+    },
+    {
+      "name": "SquidFrame",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "squid_frame"
+    },
+    {
+      "name": "Squidboysforlife",
+      "type": "dimension",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "squidboysforlife",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "RainsquidOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainsquid_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Rainsquid",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainsquid"
+    },
+    {
+      "name": "SquidioFoodEaten",
+      "type": "procedure",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "squidio_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Squidio",
+      "type": "food",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "squidio"
+    },
+    {
+      "name": "Squidink",
+      "type": "fluid",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "squidink"
+    },
+    {
+      "name": "Squidlauncher",
+      "type": "gun",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "squidlauncher"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.the_goated_mod.linda": "Linda",
+      "item.the_goated_mod.platnum_armor_chestplate": "Platnum Armor Body",
+      "item.the_goated_mod.platnum_axe": "Platnum Axe",
+      "item.the_goated_mod.squidink_bucket": "Squidink Bucket",
+      "item.the_goated_mod.platnum_sword": "Platnum Sword",
+      "block.the_goated_mod.leavesquid": "Leavesquid",
+      "block.the_goated_mod.squidunderstudy": "Squidunderstudy",
+      "item.the_goated_mod.platnum_ingot": "Platnum Ingot",
+      "item.the_goated_mod.platnum_armor_leggings": "Platnum Armor Leggings",
+      "item.the_goated_mod.mroverpowered": "Mroverpowered",
+      "item.the_goated_mod.squidlauncher": "Squidlauncher",
+      "block.the_goated_mod.platnum_block": "Platnum Block",
+      "block.the_goated_mod.tree_woodsquid": "Tree Woodsquid",
+      "fluid.squidink": "Squidink",
+      "item.the_goated_mod.platnum_armor_boots": "Platnum Armor Boots",
+      "item.the_goated_mod.platnum_hoe": "Platnum Hoe",
+      "block.the_goated_mod.biome_grass": "Biome Grass",
+      "biome.the_goated_mod.squidboys": "Squidboys",
+      "item.the_goated_mod.platnum_pickaxe": "Platnum Pickaxe",
+      "item.the_goated_mod.squidio": "Squidio",
+      "item.the_goated_mod.platnum_armor_helmet": "Platnum Armor Helmet",
+      "item.the_goated_mod.squidboysforlife": "Squidboysforlife Portal Igniter",
+      "block.the_goated_mod.platnum": "Platnum",
+      "block.the_goated_mod.rainsquid": "Rainsquid",
+      "block.the_goated_mod.squid_frame": "Squid Frame"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "the_goated_mod",
+    "modName": "the goated mod",
+    "version": "1.0.0",
+    "author": "localadmin, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.thegoatedmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

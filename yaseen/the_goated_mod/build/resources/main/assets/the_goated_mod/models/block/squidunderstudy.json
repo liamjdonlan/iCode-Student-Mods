@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "the_goated_mod:blocks/butt",
+    "particle": "the_goated_mod:blocks/butt"
+  }
+}

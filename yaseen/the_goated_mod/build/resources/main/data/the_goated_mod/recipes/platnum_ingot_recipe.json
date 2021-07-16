@@ -1,0 +1,13 @@
+{
+  "group": "the_goated_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_goated_mod:platnum_block"
+    }
+  ],
+  "result": {
+    "item": "the_goated_mod:platnum_ingot",
+    "count": 9
+  }
+}

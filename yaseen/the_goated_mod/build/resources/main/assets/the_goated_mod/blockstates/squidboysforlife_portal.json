@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "the_goated_mod:block/squidboysforlife_portal_ew"
+    },
+    "axis=x": {
+      "model": "the_goated_mod:block/squidboysforlife_portal_ns"
+    }
+  }
+}

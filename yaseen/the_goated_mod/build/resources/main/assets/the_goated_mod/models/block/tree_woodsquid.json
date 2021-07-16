@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_goated_mod:blocks/insideasquid",
+    "up": "the_goated_mod:blocks/insideasquid",
+    "north": "the_goated_mod:blocks/treewoodsquidside",
+    "east": "the_goated_mod:blocks/treewoodsquidside",
+    "south": "the_goated_mod:blocks/treewoodsquidside",
+    "west": "the_goated_mod:blocks/treewoodsquidside",
+    "particle": "the_goated_mod:blocks/insideasquid"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "group": "the_goated_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 ",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "the_goated_mod:platnum_ingot"
+    },
+    "1": {
+      "item": "the_goated_mod:platnum_ingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "the_goated_mod:platnum_sword",
+    "count": 1
+  }
+}
